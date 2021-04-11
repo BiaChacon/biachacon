@@ -2,10 +2,13 @@
 
 ### 📍 From 🇧🇷 to the <img src="assets/earth.gif" width="24px">
 
-<img src="assets/bongocat.gif" width="29px">
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=biachacon&label=Views&color=blueviolet&style=flat" alt="biachacon" >
-</a>
+<p>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=biachacon&label=Views&color=blueviolet&style=flat" alt="biachacon" >
+    </a>
+    <img src="assets/bongocat.gif" width="29px">
+</p>
+
 
 ## Connect with me <img src="assets/connect.gif" width="60px">
 
@@ -23,13 +26,13 @@
 ---
 
 <p align="center">
-<img alt="biachacon's GitHub Stats" src="https://github-readme-stats.biachacon.vercel.app/api?username=biachacon&show_icons=true&hide_border=true&theme=buefy" />
+<img alt="biachacon's GitHub Stats" src="https://github-readme-stats-git-master-biachacon.vercel.app/api?username=biachacon&show_icons=true&hide_border=true&theme=buefy" />
 </p>
 
 ---
 
 <p align="center">
-<img alt="biachacon's GitHub Stats" src="https://github-readme-stats.biachacon.vercel.app/api/top-langs/?username=biachacon&layout=compact&theme=buefy" />
+<img alt="biachacon's GitHub Stats" src="https://github-readme-stats-git-master-biachacon.vercel.app/api/top-langs/?username=biachacon&layout=compact&theme=buefy" />
 </p>
 
 <p align="center">
