@@ -27,24 +27,125 @@
 <p align="center">
 <img alt="biachacon's GitHub Stats" src="https://github-readme-stats-git-master-biachacon.vercel.app/api?username=biachacon&show_icons=true&hide_border=true&theme=buefy" />
 </p>
+</br>
 
----
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
+</br>
 <p align="center">
 <img alt="biachacon's GitHub Stats" src="https://github-readme-stats-git-master-biachacon.vercel.app/api/top-langs/?username=biachacon&layout=compact&theme=buefy" />
 </p>
 
 ---
 
-### ⚡ Recent Activity
+## 🔧 Technologies & Tools
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<details>
+<summary>
+  Languages
+</summary>
+
+![C](https://img.shields.io/badge/-5A68BB?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F0931C?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Kotlin](https://img.shields.io/badge/Kotlin-E87C27?style=flat&logo=kotlin&logoColor=white)
+
+</details>
+
+</br>
+
+<details>
+<summary>
+  Frameworks
+</summary>
+
+![SpringBoot](https://img.shields.io/badge/-Spring_Boot-69AD3C?style=flat&logo=spring&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-639A58?style=flat&logo=Node.js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-41b883?style=flat&logo=Vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+
+</details>
+
+</br>
+
+<details>
+<summary>
+  Frontend
+</summary>
+    <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/-JavaScript-EFD81D?style=flat&logo=javascript&logoColor=white">
+</details>
+
+</br>
+
+<details>
+<summary>
+  Database
+</summary>
+    <img src="https://img.shields.io/badge/-SQL-00BB6E?style=flat&logo=sql&logoColor=white">
+    <img src="https://img.shields.io/badge/-NoSQL-0773F7?style=flat&logo=sql&logoColor=white">
+    <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=sqlite&logoColor=white">
+</details>
+
+</br>
+
+<details>
+<summary>
+  Software Development
+</summary>
+
+![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white "Docker")
+![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white "Visual Studio")
+![Android Studio](https://img.shields.io/badge/-3DDC84?style=flat&logo=Android-Studio&logoColor=white "Android Studio")
+![IntelliJ IDEA](https://img.shields.io/badge/-7458B3?style=flat&logo=IntelliJ-IDEA&logoColor=white "IntelliJ IDEA")
+![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white "Eclipse IDE")
+![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white "NetBeans IDE")
+
+</details>
+<br />
+
+<details>
+<summary>
+  SDLC
+</summary>
+    <img src="https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white">
+    <img src="https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white">
+    <img src="https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white">
+</details>
+<br />
+
+<details>
+<summary>
+  Version Control & Deploy
+</summary>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/-Netlify-00c7b7?style=flat&logo=netlify&logoColor=white">
+    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+</details>
+<br />
+
+<details>
+<summary>
+  Office
+</summary>
+    <img src="https://img.shields.io/badge/-Microsoft_Excel-green?style=flat&logo=Microsoft-Excel">
+    <img src="https://img.shields.io/badge/-Microsoft_Word-blue?style=flat&logo=Microsoft-Word">
+    <img src="https://img.shields.io/badge/-Microsoft_Powerpoint-red?style=flat&logo=Microsoft-Powerpoint">
+</details>
+<br />
 
 ---
 
+### <img src="assets/pusheen-compute.gif" width="29px"> My Projects
+
 <p align="center">
-<img alt="cr7" src="assets/cr7.gif" />
+<b>I already Pinned Down for you sire!</b></br>
+<img alt="cr7" src="assets/CR7.gif"/>
 </p>
 
 <!-- <p align="center">
