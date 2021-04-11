@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/bheatrizchacon/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bheatrizchacon" height="30" width="40" /></a>
 </p>
 
-### 🎧 Spotify Playing <img src="assets/pug_dance.gif" width="25px">
+## 🎧 Spotify Playing <img src="assets/pug_dance.gif" width="29px">
 
 [<img src="https://novatorem.biachacon.vercel.app/api/spotify" alt="biachacon Spotify Playing" width="350" />](https://open.spotify.com/user/e8e7faad203b432e84a9b3ac66e612f4)
 
@@ -47,7 +47,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ![C](https://img.shields.io/badge/-5A68BB?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F0931C?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-EFD81D?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Kotlin](https://img.shields.io/badge/Kotlin-E87C27?style=flat&logo=kotlin&logoColor=white)
 
@@ -73,9 +73,11 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <summary>
   Frontend
 </summary>
-    <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/-JavaScript-EFD81D?style=flat&logo=javascript&logoColor=white">
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-EFD81D?style=flat&logo=javascript&logoColor=white)
+
 </details>
 
 </br>
@@ -84,11 +86,13 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <summary>
   Database
 </summary>
-    <img src="https://img.shields.io/badge/-SQL-00BB6E?style=flat&logo=sql&logoColor=white">
-    <img src="https://img.shields.io/badge/-NoSQL-0773F7?style=flat&logo=sql&logoColor=white">
-    <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLite-blue?style=flat&logo=sqlite&logoColor=white">
+
+![SQL](https://img.shields.io/badge/-SQL-00BB6E?style=flat&logo=sql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-0773F7?style=flat&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat&logo=sqlite&logoColor=white)
+
 </details>
 
 </br>
@@ -112,9 +116,11 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <summary>
   SDLC
 </summary>
-    <img src="https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white">
-    <img src="https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white">
-    <img src="https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white">
+
+![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white)
+
 </details>
 <br />
 
@@ -122,10 +128,12 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <summary>
   Version Control & Deploy
 </summary>
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/-Netlify-00c7b7?style=flat&logo=netlify&logoColor=white">
-    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00c7b7?style=flat&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
+
 </details>
 <br />
 
@@ -133,9 +141,11 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <summary>
   Office
 </summary>
-    <img src="https://img.shields.io/badge/-Microsoft_Excel-green?style=flat&logo=Microsoft-Excel">
-    <img src="https://img.shields.io/badge/-Microsoft_Word-blue?style=flat&logo=Microsoft-Word">
-    <img src="https://img.shields.io/badge/-Microsoft_Powerpoint-red?style=flat&logo=Microsoft-Powerpoint">
+    
+![Microsoft_Excel-](https://img.shields.io/badge/-Microsoft_Excel-green?style=flat&logo=Microsoft-Excel)
+![Microsoft_Word](https://img.shields.io/badge/-Microsoft_Word-blue?style=flat&logo=Microsoft-Word)
+![Microsoft_Powerpoint](https://img.shields.io/badge/-Microsoft_Powerpoint-red?style=flat&logo=Microsoft-Powerpoint)
+
 </details>
 <br />
 
