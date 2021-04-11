@@ -1,15 +1,11 @@
 # Hi <img src="assets/hi.gif" width="29px"> , I'm Bia <img src="assets/mario.gif" width="29px">
 
-## 📍 From 🇧🇷 to the <img src="assets/earth.gif" width="24px">
+### 📍 From 🇧🇷 to the <img src="assets/earth.gif" width="24px">
 
-</br>
-
+<img src="assets/bongocat.gif" width="29px">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=biachacon&label=Views&color=blueviolet&style=flat" alt="biachacon" >
 </a>
-<img src="assets/bongocat.gif" width="29px">
-
-</br>
 
 ## Connect with me <img src="assets/connect.gif" width="60px">
 
