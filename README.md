@@ -1,6 +1,6 @@
 # Hi <img src="assets/hi.gif" width="29px"> , I'm Bia <img src="assets/mario.gif" width="29px">
 
-### 📍 From 🇧🇷 to the <img src="assets/earth.gif" width="24px">
+### 📍 From 🇧🇷 to the <img src="assets/earth.gif" width="20px">
 
 <p>
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
