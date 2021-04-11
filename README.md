@@ -9,7 +9,6 @@
     <img src="assets/bongocat.gif" width="29px">
 </p>
 
-
 ## Connect with me <img src="assets/connect.gif" width="60px">
 
 <p align="left">
@@ -19,7 +18,7 @@
 <a href="https://www.instagram.com/bheatrizchacon/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bheatrizchacon" height="30" width="40" /></a>
 </p>
 
-## 🎧 Spotify Playing <img src="assets/pug_dance.gif" width="25px">
+### 🎧 Spotify Playing <img src="assets/pug_dance.gif" width="25px">
 
 [<img src="https://novatorem.biachacon.vercel.app/api/spotify" alt="biachacon Spotify Playing" width="350" />](https://open.spotify.com/user/e8e7faad203b432e84a9b3ac66e612f4)
 
@@ -34,6 +33,15 @@
 <p align="center">
 <img alt="biachacon's GitHub Stats" src="https://github-readme-stats-git-master-biachacon.vercel.app/api/top-langs/?username=biachacon&layout=compact&theme=buefy" />
 </p>
+
+---
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 <p align="center">
 <img alt="cr7" src="assets/cr7.gif" />
