@@ -53,8 +53,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 </details>
 
-</br>
-
 <details>
 <summary>
   Frameworks
@@ -67,8 +65,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 </details>
 
-</br>
-
 <details>
 <summary>
   Frontend
@@ -79,8 +75,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EFD81D?style=flat&logo=javascript&logoColor=white)
 
 </details>
-
-</br>
 
 <details>
 <summary>
@@ -95,8 +89,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 </details>
 
-</br>
-
 <details>
 <summary>
   Software Development
@@ -110,7 +102,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white "NetBeans IDE")
 
 </details>
-<br />
 
 <details>
 <summary>
@@ -122,7 +113,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white)
 
 </details>
-<br />
 
 <details>
 <summary>
@@ -135,7 +125,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
 </details>
-<br />
 
 <details>
 <summary>
@@ -147,7 +136,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ![Microsoft_Powerpoint](https://img.shields.io/badge/-Microsoft_Powerpoint-red?style=flat&logo=Microsoft-Powerpoint)
 
 </details>
-<br />
 
 ---
 
