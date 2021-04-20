@@ -12,7 +12,7 @@
 ## Connect with me <img src="assets/connect.gif" width="60px">
 
 <p align="left">
-<a href="https://www.biachacon.wtf/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="40" /></a>
+<a href="https://biachacon.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bheatrizchacon/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bheatrizchacon" height="30" width="40" /></a>
 <a href="https://twitter.com/biachacondev" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="biachacondev" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bheatrizchacon/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bheatrizchacon" height="30" width="40" /></a>
