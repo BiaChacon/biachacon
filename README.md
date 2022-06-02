@@ -1,15 +1,15 @@
-# Hi <img src="assets/hi.gif" width="29px"> , I'm Bia <img src="assets/mario.gif" width="29px">
+# Hi <img src="assets/hi.gif" width="29px" height="29px"> , I'm Bia <img src="assets/mario.gif" width="29px" height="29px">
 
-### 📍 From 🇧🇷 to the <img src="assets/earth.gif" width="20px">
+### 📍 From 🇧🇷 to the <img src="assets/earth.gif" width="20px" height="20px">
 
 <p>
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=biachacon&label=Views&color=blueviolet&style=flat" alt="biachacon" >
     </a>
-    <img src="assets/bongocat.gif" width="29px">
+    <img src="assets/bongocat.gif" width="29px" height="29px">
 </p>
 
-## Connect with me <img src="assets/connect.gif" width="60px">
+## Connect with me <img src="assets/connect.gif" width="60px" height="60px">
 
 <p align="left">
 <a href="https://biachacon.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="40" /></a>
@@ -139,7 +139,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-### <img src="assets/pusheen-compute.gif" width="29px"> My Projects
+### <img src="assets/pusheen-compute.gif" width="29px" height="29px"> My Projects
 
 <p align="center">
 <b>I already Pinned Down for you sire!</b></br>
